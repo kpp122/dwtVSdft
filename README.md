@@ -1,2 +1,2 @@
 # dwtVSdft
-In this assignment I implemented discrete wavelet transform and compared its behavior to discrete Fourier transform.
+Old school project. In this assignment I implemented discrete wavelet transform and compared its behavior to discrete Fourier transform. Used data consists of weather observations from March 1, 2022 – November 22, 2022. Time interval between the observations is one hour. Chosen weather variables for this task were cloud amount, precipitation intensity, air temperature, gust speed and wind speed. The chosen fraction of weights which have the highest energy for discrete wavelet transform is ¼.
